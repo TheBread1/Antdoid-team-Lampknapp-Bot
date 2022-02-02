@@ -9,6 +9,8 @@ This script is initially run on Linux Mint as its host. Features like Text-To-Sp
 
 --SIDE NOTE: The start.sh is REQUIRED for both text to speech **AND** the sound effects to play. Music is unaffected but everything else is. **YOU WILL HAVE TO GO INTO START.SH AND ENTER THE PATH TO THE DIRECTORY THE ROBOT IS IN!**
 
+**This is the link to the original music player that this bot uses:** https://gist.github.com/vbe0201/ade9b80f2d3b64643d854938d40a0a2d
+
 Discord.py official documentation: https://discordpy.readthedocs.io/en/stable/
 
 Python website: https://www.python.org/downloads/
