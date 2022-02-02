@@ -1,7 +1,7 @@
 # Antdoid team's Lampknapp
-**It has music, it has basic moderation features, it has reddit browsing, it's fun! It's lampknapp! Sadly it can't be on 24/7, and I'm still working on it but eventually it may be a viable option as "The Bot that Does It All!"
+**It has music, it has basic moderation features, it has reddit browsing, it's fun! It's lampknapp! Sadly it can't be on 24/7, and I'm still working on it but eventually it may be a viable option as "The Bot that Does It All!"**
 
-**-Please, do NOT manually disconnect Lampknapp from a voice channel, it will break the music player in such a way that it is not fixable on your server until I restart the bot.
+**-Please, do NOT manually disconnect Lampknapp from a voice channel, it will break the music player in such a way that it is not fixable on your server until I restart the bot.**
 
 
 # Technical crap/setup
