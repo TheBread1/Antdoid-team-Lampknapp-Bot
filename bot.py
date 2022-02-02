@@ -58,7 +58,7 @@ print('Starting...')
 # account information printer
 @bot.event
 async def on_ready():
-    await bot.change_presence(activity=discord.Game(f'Prefix is {prefix}, oh also only Bread. is behind this bot, nobody else!'))
+    await bot.change_presence(activity=discord.Game(f'Prefix is {prefix}'))
     try:
         print(' ####    ####\n##############\n##############\n ############\n   ########\n     ####\n--------------') #Just some art for startup :)
         print(f'{bot.user.name} | {bot.user.id}')
