@@ -15,6 +15,7 @@ EspeakNG github page: https://github.com/espeak-ng/espeak-ng/
 
 # Shameless self promo
 Want to show me this is worth something? Subscribe to my youtube, it'd mean alot to me https://www.youtube.com/channel/UCaJi6VIly1pC2Oy3bWi1aYg. Want to invite the **original** bot to your server? Simply click one of these links, and hey, be sure to leave a comment and/or vote!
+
 **Top.gg** https://top.gg/bot/871584632628465726
 
 **Direct** https://discord.com/oauth2/authorize?client_id=871584632628465726&permissions=8&scope=applications.commands%20bot
