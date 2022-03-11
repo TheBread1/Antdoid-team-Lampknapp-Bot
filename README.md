@@ -26,4 +26,3 @@ Want to show me this is worth something? Subscribe to my youtube, it'd mean alot
 
 **YouTube** https://www.youtube.com/channel/UCaJi6VIly1pC2Oy3bWi1aYg
 
-**Twitch** https://www.twitch.tv/theextra_
